@@ -1,0 +1,10 @@
+[user]
+  email = daiya.ship8@gmail.com
+  name = Kazuya Nagashima
+[core]
+  editor = vim -c \"set fenc=utf-8\"
+  pager = less -cm
+  quotepath = false
+[push]
+  default = simple
+
